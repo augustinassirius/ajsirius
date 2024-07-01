@@ -1,5 +1,5 @@
 ![MasterHead](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)
-<h1 align="center">Hi 👋, I'm augustinas sirius</h1>
+<h1 align="center">Hi 👋, I'm Augustinas Sirius</h1>
 <h3 align="center">Just some guy thats into tech,coding and develpoing some cool stuff:)</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajsirius&label=Profile%20views&color=0e75b6&style=flat" alt="ajsirius" /> </p>
