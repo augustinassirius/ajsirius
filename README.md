@@ -1,4 +1,5 @@
-![MasterHead](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)
+
+![pixel-jeff-matrix-s](https://github.com/ajsirius/ajsirius/assets/57543708/48c34924-2baa-486b-bd82-82c9447f92ea)
 <h1 align="center">Hi 👋, I'm Augustinas Sirius</h1>
 <h3 align="center">Just some guy thats into tech and coding :)</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
